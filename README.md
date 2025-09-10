@@ -44,13 +44,13 @@ If there is an error (e.g., mismatched dimensions), an error message will appear
 ```bash
 pip install streamlit numpy
 
-
+```
 Save the provided Python code as streamlit_matrix_tool.py.
 
 Run the application from your terminal:
-
+```
 streamlit run streamlit_matrix_tool.py
-
+```
 Cheat Sheet
 
 A dedicated Cheat Sheet tab is included in the application.
